@@ -25,4 +25,4 @@ function factorial(n) {
         return i ;
 }
 
-factorial(n);
+factorial(10);

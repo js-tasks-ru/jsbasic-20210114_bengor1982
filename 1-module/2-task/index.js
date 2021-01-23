@@ -20,7 +20,7 @@ function isValid(userName) {
    
 
 
-  return ((userName.length > 4) && !(userName === null) && space()); 
+  return ((userName.length >= 4) && !(userName === null) && space()); 
               
               
 }

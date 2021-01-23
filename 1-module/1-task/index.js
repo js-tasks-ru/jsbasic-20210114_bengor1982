@@ -4,6 +4,7 @@
  * @returns {number}
  */
 function factorial(n) {
+
   
   //Для удобства счета еще одна переменная К;
 
@@ -23,6 +24,7 @@ function factorial(n) {
           
         }
         return i ;
+
 }
 
-factorial(10);
+factorial();
